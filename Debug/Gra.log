@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(449,5): warning MSB8003: Właściwość WindowsSDKDir nie jest zdefiniowana. Prawdopodobnie nie będzie można znaleźć niektórych narzędzi do kompilacji.
+  Defensive.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\yvals.h(12,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'crtdbg.h': No such file or directory
+  Item.cpp
+  Game.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\yvals.h(12,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'crtdbg.h': No such file or directory
+  Main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\yvals.h(12,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'crtdbg.h': No such file or directory
+  Mixture.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\yvals.h(12,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'crtdbg.h': No such file or directory
+  Offensive.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\yvals.h(12,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'crtdbg.h': No such file or directory
+  Player.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\yvals.h(12,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'crtdbg.h': No such file or directory
+  Generowanie kodu...
