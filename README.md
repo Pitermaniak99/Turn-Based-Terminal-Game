@@ -4,4 +4,4 @@ Then he must attack the enemy with the selected weapon, dealing damage and recei
 The player who survives wins.
 
 The application was created to learn various functionalities of the C++ language and object oriented programming.
-It uses dependencies between classes, such as inheritance, polymorphism or virtual methods.
+It uses dependencies between classes, such as inheritance, polymorphism and virtual methods.
